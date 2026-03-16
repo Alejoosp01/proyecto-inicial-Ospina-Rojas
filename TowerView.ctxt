@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TowerView
+comment0.text=\r\n\ Se\ encarga\ de\ dibujar\ la\ torre.\r\n
+comment1.params=
+comment1.target=TowerView()
+comment1.text=\r\n\ Crea\ la\ vista\ de\ la\ torre.\r\n
+comment2.params=items\ width\ maxHeight
+comment2.target=void\ show(java.util.Stack,\ int,\ int)
+comment2.text=\r\n\ Muestra\ la\ torre\ en\ el\ canvas.\r\n\ @param\ items\ elementos\ de\ la\ torre\r\n\ @param\ width\ ancho\ de\ referencia\r\n\ @param\ maxHeight\ altura\ m\u00E1xima\r\n
+comment3.params=
+comment3.target=void\ hide()
+comment3.text=\r\n\ Oculta\ la\ torre\ del\ canvas.\r\n
+numComments=4

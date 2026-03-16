@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Representa\ una\ tapa\ de\ la\ torre.\r\n
+comment1.params=number
+comment1.target=Lid(int)
+comment1.text=\r\n\ Crea\ una\ tapa\ con\ su\ n\u00FAmero.\r\n\ @param\ number\ n\u00FAmero\ de\ la\ tapa\r\n
+comment2.params=
+comment2.target=int\ getNumber()
+comment2.text=\r\n\ Retorna\ el\ n\u00FAmero\ de\ la\ tapa.\r\n\ @return\ n\u00FAmero\ de\ la\ tapa\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ Retorna\ la\ altura\ de\ la\ tapa.\r\n\ @return\ altura\ de\ la\ tapa\r\n
+comment4.params=
+comment4.target=int\ getWidth()
+comment4.text=\r\n\ Retorna\ el\ ancho\ de\ la\ tapa.\r\n\ @return\ ancho\ de\ la\ tapa\r\n
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment5.text=\r\n\ Retorna\ el\ color\ de\ la\ tapa.\r\n\ @return\ color\ de\ la\ tapa\r\n
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment6.text=\r\n\ Cambia\ el\ color\ de\ la\ tapa.\r\n\ @param\ color\ nuevo\ color\r\n
+numComments=7
