@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ Resuelve\ y\ simula\ el\ problema\ Stacking\ Cups.\r\n\ Tower\ se\ usa\ \u00DANICAMENTE\ para\ simular,\ no\ para\ resolver.\r\n
+comment1.params=n\ h
+comment1.target=java.lang.String\ solve(int,\ int)
+comment1.text=\r\n\ Resuelve\ el\ problema\ dado\ n\ tazas\ y\ altura\ h\ deseada.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\r\n\ @param\ h\ altura\ deseada\r\n\ @return\ alturas\ en\ orden\ o\ "impossible"\r\n
+comment2.params=n\ h
+comment2.target=void\ simulate(int,\ int)
+comment2.text=\r\n\ Simula\ visualmente\ la\ soluci\u00F3n\ usando\ Tower.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\r\n\ @param\ h\ altura\ deseada\r\n
+comment3.params=n\ h
+comment3.target=int\ encontrarK(int,\ long)
+comment3.text=\r\n\ Encuentra\ k\ m\u00E1ximo\ tal\ que\ k*(2n-k)\ <\=\ h.\r\n
+comment4.params=n\ k
+comment4.target=java.lang.String\ construirSalida(int,\ int)
+comment4.text=\r\n\ Construye\ la\ salida\ con\ las\ alturas\ en\ el\ orden\ correcto.\r\n
+numComments=5
