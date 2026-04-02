@@ -1,3 +1,7 @@
+package tower;
+import tower.Cup;
+import tower.Lid;
+
 /**
  * Representa un elemento apilado en la torre.
  * Puede contener una taza, una tapa o ambas.

@@ -1,3 +1,4 @@
+package tower;
 import junit.framework.TestCase;
 
 //pruebas unitarias para nuestro TowerContest

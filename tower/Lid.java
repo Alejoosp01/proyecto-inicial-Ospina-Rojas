@@ -1,3 +1,6 @@
+package tower;
+
+
 /**
  * Representa una tapa de la torre.
  */
